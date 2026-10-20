@@ -1,53 +1,54 @@
-# Prompt Library Index
+---
+created: 2026-10-20
+---
 
-## ChatGPT & General AI Prompting
 
-* [Better ChatGPT Prompting Cheat Sheet](Better_ChatGPT_Prompting_Cheat_Sheet.md)
-* [ChatGPT Prompt Collection](ChatGPT_Prompt_Collection.md)
-* [ChatGPT Human Writing Prompts](ChatGPT_Human_Writing_Prompts.md)
-* [ChatGPT Lockdown Mode OCR](ChatGPT_Lockdown_Mode_OCR.md)
-* [ChatGPT Secret Codes OCR](ChatGPT_Secret_Codes_OCR.md)
-* [47 Secret ChatGPT Command Codes](47_secret_chatgpt_command_codes_ocr.md)
-* [ChatGPT Slash Codes](chatGPT_Slash_Codes.md)
-* [AI Prompt Playbook](AI_Prompt_Playbook.md)
-* [AI Prompt Structure for Content Creation](AI_Prompt_Structure_for_Content_Creation.md)
-* [PromptCraft OCR](PromptCraft_OCR.md)
+# Generated Links
 
-## Claude AI
-
-* [Published Claude AI Prompt Codes](Published_Claude_AI_Prompt_Codes.md)
-
-## Image & Visual Prompts
-
-* [20 AI Image Editing Prompts](20_AI_Image_Editing_Prompts.md)
-* [AI Corporate Headshot Prompt OCR](AI_Corporate_Headshot_Prompt_OCR.md)
-
-## Video & Cinematic Prompts
-
-* [10 Cinematic Prompt Techniques for Video](10_Cinematic_Prompt_Techniques_for_Video.md)
-* [Cinematic Prompts](cinematic.md)
-
-## Content Creation & Social Media
-
-* [Social Media Strategy Prompt Pack](Social_Media_Strategy_Prompt_Pack.md)
-* [Instagram Prompt Collection OCR](Instagram_Prompt_Collection_OCR.md)
-* [Viral Hooks Framework Transcription](Viral_Hooks_Framework_Transcription.md)
-* [Humanizing AI Written Text Prompts](Humanizing_AI_Written_Text_Prompts.md)
-* [Client Attraction Mode OCR](client_attraction_mode_ocr.md)
-
-## Productivity & Decision Making
-
-* [Premortem Decision Making Technique](Premortem_Decision_Making_Technique.md)
-* [7 Life Direction Prompts Transcription](7_Life_Direction_Prompts_Transcription.md)
-* [Build Sheets](Build_sheets.md)
-
-## Resources & Tools
-
-* [90 Free Websites to Learn Any Skill 2026](90_Free_Websites_to_Learn_Any_Skill_2026_Transcription.md)
-* [Useful Websites OCR](Useful_Websites_OCR.md)
-* [Shopping Discount Prompts](Shopping_Discount_Prompts.md)
-* [Nano Banana Top 5 Prompts](Nano_Banana_Top_5_Prompts.md)
-
-## Projects
-
-* [Sifuyik AI Infographics Human Transcription Project](Sifuyik_AI_Infographics_Human_Transcription_Project.md)
+- [10-chatgpt-prompts-for-restoring-old-family-photos](10-chatgpt-prompts-for-restoring-old-family-photos.md)
+- [Luc-Chenier-Style-Context](Luc-Chenier-Style-Context.md)
+- [Top_5_AI_Prompts_for_Logo_Design](Top_5_AI_Prompts_for_Logo_Design.md)
+- [chatgpt-prompt-swaps-vague-vs-specific](chatgpt-prompt-swaps-vague-vs-specific.md)
+- [ChatGPT_Family_Tree_4_Prompt_Workflow](ChatGPT_Family_Tree_4_Prompt_Workflow.md)
+- [HexSec_Android_Phone_Control_Guide](HexSec_Android_Phone_Control_Guide.md)
+- [Tattoo-Style-Reference](Tattoo-Style-Reference.md)
+- [instagram_prompts_and_ai_websites](instagram_prompts_and_ai_websites.md)
+- [99_secret_codes_for_chatgpt_OCR](99_secret_codes_for_chatgpt_OCR.md)
+- [the_coding_wizard_AI_websites_OCR](the_coding_wizard_AI_websites_OCR.md)
+- [5_Instagram_Growth_and_Monetization_Prompts](5_Instagram_Growth_and_Monetization_Prompts.md)
+- [9_ChatGPT_Photo_Editing_Prompts](9_ChatGPT_Photo_Editing_Prompts.md)
+- [8-chatgpt-prompts-for-learning-writing-research-and-problem-solving](8-chatgpt-prompts-for-learning-writing-research-and-problem-solving.md)
+- [prompt_library - Image Analysis and OCR](prompt_library%20-%20Image%20Analysis%20and%20OCR.md)
+- [chatgpt-facebook-marketplace-carousel-ocr](chatgpt-facebook-marketplace-carousel-ocr.md)
+- [best-times-to-post](best-times-to-post.md)
+- [loop_engineering](loop_engineering.md)
+- [README](README.md)
+- [CONTRIBUTING](CONTRIBUTING.md)
+- [cinematic](cinematic.md)
+- [20_AI_Image_Editing_Prompts](20_AI_Image_Editing_Prompts.md)
+- [client_attraction_mode_ocr](client_attraction_mode_ocr.md)
+- [Build_sheets](Build_sheets.md)
+- [Nano_Banana_Top_5_Prompts](Nano_Banana_Top_5_Prompts.md)
+- [Shopping_Discount_Prompts](Shopping_Discount_Prompts.md)
+- [ChatGPT_Prompt_Collection](ChatGPT_Prompt_Collection.md)
+- [Viral_Hooks_Framework_Transcription](Viral_Hooks_Framework_Transcription.md)
+- [90_Free_Websites_to_Learn_Any_Skill_2026_Transcription](90_Free_Websites_to_Learn_Any_Skill_2026_Transcription.md)
+- [10_Cinematic_Prompt_Techniques_for_Video](10_Cinematic_Prompt_Techniques_for_Video.md)
+- [7_Life_Direction_Prompts_Transcription](7_Life_Direction_Prompts_Transcription.md)
+- [Sifuyik_AI_Infographics_Human_Transcription_Project](Sifuyik_AI_Infographics_Human_Transcription_Project.md)
+- [Instagram_Prompt_Collection_OCR](Instagram_Prompt_Collection_OCR.md)
+- [PromptCraft_OCR](PromptCraft_OCR.md)
+- [47_secret_chatgpt_command_codes_ocr](47_secret_chatgpt_command_codes_ocr.md)
+- [ChatGPT_Secret_Codes_OCR](ChatGPT_Secret_Codes_OCR.md)
+- [Social_Media_Strategy_Prompt_Pack](Social_Media_Strategy_Prompt_Pack.md)
+- [ChatGPT_Human_Writing_Prompts](ChatGPT_Human_Writing_Prompts.md)
+- [Useful_Websites_OCR](Useful_Websites_OCR.md)
+- [AI_Corporate_Headshot_Prompt_OCR](AI_Corporate_Headshot_Prompt_OCR.md)
+- [chatGPT_Slash_Codes](chatGPT_Slash_Codes.md)
+- [Published_Claude_AI_Prompt_Codes](Published_Claude_AI_Prompt_Codes.md)
+- [ChatGPT_Lockdown_Mode_OCR](ChatGPT_Lockdown_Mode_OCR.md)
+- [Humanizing_AI_Written_Text_Prompts](Humanizing_AI_Written_Text_Prompts.md)
+- [Premortem_Decision_Making_Technique](Premortem_Decision_Making_Technique.md)
+- [AI_Prompt_Structure_for_Content_Creation](AI_Prompt_Structure_for_Content_Creation.md)
+- [Better_ChatGPT_Prompting_Cheat_Sheet](Better_ChatGPT_Prompting_Cheat_Sheet.md)
+- [AI_Prompt_Playbook](AI_Prompt_Playbook.md)
