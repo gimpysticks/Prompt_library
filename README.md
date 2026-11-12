@@ -1,53 +1,42 @@
-# Prompt Library
+# Curated Prompt Library
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
-A curated collection of AI prompt guides, cheat sheets, and techniques for ChatGPT, Claude, and image generation tools.
+A curated collection of verified AI prompt guides, frameworks, style references, and technical workflows.
+
+> **Note:** This library has been audited to remove engagement-bait clickbait, non-existent UI modes, hallucination traps, and fake "secret codes" commonly spread on social media.
 
 ## Contents
 
-### ChatGPT & General AI Prompting
-- [Better ChatGPT Prompting Cheat Sheet](Better_ChatGPT_Prompting_Cheat_Sheet.md)
-- [ChatGPT Prompt Collection](ChatGPT_Prompt_Collection.md)
-- [ChatGPT Human Writing Prompts](ChatGPT_Human_Writing_Prompts.md)
-- [ChatGPT Lockdown Mode OCR](ChatGPT_Lockdown_Mode_OCR.md)
-- [47 Secret ChatGPT Command Codes](47_secret_chatgpt_command_codes_ocr.md)
-- [AI Prompt Playbook](AI_Prompt_Playbook.md)
-- [AI Prompt Structure for Content Creation](AI_Prompt_Structure_for_Content_Creation.md)
-- [PromptCraft OCR](PromptCraft_OCR.md)
+### AI Prompting & Engineering Frameworks
+- [Better ChatGPT Prompting Cheat Sheet](Better_ChatGPT_Prompting_Cheat_Sheet.md) — Upgrades replacing vague instructions with clear constraints.
+- [ChatGPT Prompt Swaps: Vague vs. Specific](chatgpt-prompt-swaps-vague-vs-specific.md) — Exact words to replace for higher-quality responses.
+- [AI Prompt Playbook](AI_Prompt_Playbook.md) — High-leverage templates (Devil's Advocate, Multi-source synthesis, Difficult conversation prep).
+- [Eight ChatGPT Prompts](8-chatgpt-prompts-for-learning-writing-research-and-problem-solving.md) — Practical learning, research, and problem-solving prompts.
+- [Published Claude AI Prompt Codes](Published_Claude_AI_Prompt_Codes.md) — Analysis and plain-English translations of community prompt shortcuts.
 
-### Claude AI
-- [Published Claude AI Prompt Codes](Published_Claude_AI_Prompt_Codes.md)
+### Writing & Copyediting
+- [ChatGPT Human Writing Prompts](ChatGPT_Human_Writing_Prompts.md) — Nine prompts to strip formulaic AI cadence and write natural prose.
+- [Humanizing AI-Written Text Prompts](Humanizing_AI_Written_Text_Prompts.md) — Copyeditor frameworks to improve rhythm and flow.
+- [AI Prompt Structure for Content Creation](AI_Prompt_Structure_for_Content_Creation.md) — Bad vs. Good vs. Great prompt structural patterns.
 
-### Image & Visual Prompts
-- [20 AI Image Editing Prompts](20_AI_Image_Editing_Prompts.md)
-- [AI Corporate Headshot Prompt OCR](AI_Corporate_Headshot_Prompt_OCR.md)
+### Strategy & Decision Making
+- [Premortem Decision-Making Technique](Premortem_Decision_Making_Technique.md) — Prospective hindsight method for stress-testing plans.
+- [Social Media Strategy Prompt Pack](Social_Media_Strategy_Prompt_Pack.md) — ICP persona builder, competitor whitespace mapping, and content pillars.
+- [Viral Hooks Framework](Viral_Hooks_Framework_Transcription.md) — Copywriting hook patterns (curiosity, urgency, authority).
+- [Loop Engineering](loop_engineering.md) — Multi-tier agentic feedback loops framework.
 
-### Video & Cinematic Prompts
-- [10 Cinematic Prompt Techniques for Video](10_Cinematic_Prompt_Techniques_for_Video.md)
-- [Cinematic Prompts](cinematic.md)
+### Visual & Creative Concept Art
+- [10 Cinematic Prompt Techniques for Video](10_Cinematic_Prompt_Techniques_for_Video.md) — Critical, evidence-based breakdown of video prompting techniques.
+- [Cinematic Camera Angles](cinematic.md) — Quick reference for camera moves and framing (Dutch angle, OTS, POV, low/high angles).
+- [Build Sheets](Build_sheets.md) — Professional animation and concept art sheets (action, pose, turnaround, and color palettes).
+- [Luc Chenier Style Context](Luc-Chenier-Style-Context.md) — Visual aesthetics and prompt context for ethereal gothic / dark fantasy art.
+- [Tattoo Style Reference](Tattoo-Style-Reference.md) — Reference prompts for skull and serpent engraving styles.
 
-### Content Creation & Social Media
-- [Social Media Strategy Prompt Pack](Social_Media_Strategy_Prompt_Pack.md)
-- [Instagram Prompt Collection OCR](Instagram_Prompt_Collection_OCR.md)
-- [Viral Hooks Framework Transcription](Viral_Hooks_Framework_Transcription.md)
-- [Humanizing AI Written Text Prompts](Humanizing_AI_Written_Text_Prompts.md)
-- [Client Attraction Mode OCR](client_attraction_mode_ocr.md)
-
-### Productivity & Decision Making
-- [Premortem Decision Making Technique](Premortem_Decision_Making_Technique.md)
-- [7 Life Direction Prompts Transcription](7_Life_Direction_Prompts_Transcription.md)
-- [Build Sheets](Build_sheets.md)
-
-### Resources & Tools
-- [90 Free Websites to Learn Any Skill 2026](90_Free_Websites_to_Learn_Any_Skill_2026_Transcription.md)
-- [Useful Websites OCR](Useful_Websites_OCR.md)
-- [Shopping Discount Prompts](Shopping_Discount_Prompts.md)
-- [Nano Banana Top 5 Prompts](Nano_Banana_Top_5_Prompts.md)
-
-### Projects
-- [Sifuyik AI Infographics Human Transcription Project](Sifuyik_AI_Infographics_Human_Transcription_Project.md)
+### Technical Guides & Utilities
+- [Control Your Android Phone from Your PC](HexSec_Android_Phone_Control_Guide.md) — Practical USB and Wi-Fi control guide using `adb` and `scrcpy`.
+- [Useful Websites](Useful_Websites_OCR.md) — Reference of legitimate web tools (FlightRadar24, Have I Been Pwned, Wayback Machine).
 
 ---
 
-See [index.md](index.md) for a flat listing of all files.
+See [index.md](index.md) for a flat index of all library files.
